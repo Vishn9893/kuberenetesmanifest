@@ -23,7 +23,7 @@ spec:
 
           - name: reuniwatttest
 
-            image: vishblip93/reuniwattsrv:latest
+            image: vishblip93/reuniwattsrv:3
 
             imagePullPolicy: IfNotPresent
 
